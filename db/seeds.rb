@@ -7,3 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 trainer1 = Trainer.create(name: 'Mikey', password: '1', age: 27)
+trainer2 = Trainer.create(name: 'Bigglesworth', password: '1'. age: 57)
